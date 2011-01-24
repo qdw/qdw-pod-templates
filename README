@@ -1,0 +1,4 @@
+These POD templates are based on those from Damian Conway's Perl Best
+Practices, with some modifications (and some values filled in) by me. For now,
+they're not set up for integration with emacs perlnow.el or anything like
+that; you just fill them in purely by hand.

@@ -1,0 +1,60 @@
+=head1 NAME
+
+ - 
+
+=head1 VERSION
+
+This documentation refers to <app name> version 0.0.1
+
+=head1 SYNOPSIS
+
+
+
+=head1 REQUIRED ARGUMENTS
+
+
+
+=head1 OPTIONS
+
+
+
+=head1 DESCRIPTION
+
+
+
+=head1 DIAGNOSTICS
+
+
+
+=head1 CONFIGURATION AND ENVIRONMENT
+
+
+
+=head1 DEPENDENCIES
+
+
+
+=head1 INCOMPATIBILITIES
+
+
+
+=head1 BUGS AND LIMITATIONS
+
+There are no known bugs in this module. 
+Please report problems to Quinn Weaver <quinn@fairpath.com>
+Patches are welcome.
+
+=head1 AUTHOR
+
+Quinn Weaver <quinn@fairpath.com>
+
+=head1 LICENSE AND COPYRIGHT
+
+Copyright (c) 2011 Quinn Weaver (<quinn@fairpath.com>). All rights reserved.
+
+This module is free software; you can redistribute it and/or
+modify it under the same terms as Perl itself. See L<perlartistic>.
+ 
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
