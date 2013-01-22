@@ -32,7 +32,7 @@ This documentation refers to :: version 0.0.1
 
 =head1 BUGS AND LIMITATIONS
 
-There are no known bugs in this module. 
+There are no known bugs in this module.
 Please report problems to Quinn Weaver <quinn@fairpath.com>
 Patches are welcome.
  
